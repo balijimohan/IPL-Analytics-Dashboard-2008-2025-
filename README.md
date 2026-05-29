@@ -1,13 +1,13 @@
 # 🏏 IPL Data Analysis Dashboard (2008–2025)
 
-## 📌 Project Overview
+##  Project Overview
 The IPL Data Analysis Dashboard is an interactive sports analytics project developed using Microsoft Excel to analyze Indian Premier League (IPL) data from 2008 to 2025. The dashboard provides meaningful insights into team performance, player achievements, venue statistics, and match-winning patterns through dynamic visualizations and KPI metrics.
 
 This project demonstrates practical skills in data cleaning, sports data analytics, dashboard design, and business intelligence reporting.
 
 ---
 
-# 🎯 Project Objective
+#  Project Objective
 The primary objective of this project is to analyze historical IPL data and build an interactive dashboard that helps users:
 
 - Understand team performance across IPL seasons
@@ -19,7 +19,7 @@ The primary objective of this project is to analyze historical IPL data and buil
 
 ---
 
-# 🛠️ Tools & Technologies Used
+#  Tools & Technologies Used
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
@@ -46,7 +46,7 @@ The dataset contains IPL match records from 2008 to 2025 including:
 
 ---
 
-# 🧹 Data Cleaning & Preparation
+#  Data Cleaning & Preparation
 Before building the dashboard, the following preprocessing steps were performed:
 
 - Removed duplicate records
@@ -58,7 +58,7 @@ Before building the dashboard, the following preprocessing steps were performed:
 
 ---
 
-# 📊 Dashboard Features
+#  Dashboard Features
 The dashboard includes multiple interactive charts and KPI cards such as:
 (<img width="1480" height="786" alt="Screenshot 2026-05-22 123003" src="https://github.com/user-attachments/assets/e4e79300-185c-4966-8444-9eaea51643fb" />)
 
@@ -88,7 +88,7 @@ The dashboard includes multiple interactive charts and KPI cards such as:
 
 ---
 
-# 🔍 Key Insights
+#  Key Insights
 - Teams choosing to field first had a higher winning percentage in several IPL seasons
 - Mumbai Indians and Chennai Super Kings emerged as the most successful teams
 - Certain venues consistently favored chasing teams
@@ -97,7 +97,7 @@ The dashboard includes multiple interactive charts and KPI cards such as:
 
 ---
 
-# 💡 Skills Demonstrated
+#  Skills Demonstrated
 This project demonstrates practical skills in:
 
 - Data Cleaning
